@@ -1,0 +1,5 @@
+{
+  "apiUrl": "http://turretpos.najjyo.com/api",
+  "localUrl": "http://localhost/turretpos_laravel/public/api",
+  "liveUrl": "http://turretpos.najjyo.com/api"
+}
